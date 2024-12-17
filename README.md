@@ -1,2 +1,3 @@
 # Insta-clone
-Clone of a instagram home page
+
+Clone of a instagram page
